@@ -8,5 +8,5 @@
  * [https://freecomputerbooks.com/](https://freecomputerbooks.com/)
 
 ## Contributors 
-* [harshsinghvi](https://harshsinghvi.com/gh) [(@insomniaccoder)](https://harshsinghvi.com/instagram)
-* [devashishupadhyay](https://github.com/devashishupadhyay)[Website](https://thedevashish.in)
+* [harshsinghvi](https://harshsinghvi.com/gh) [(@insomniaccoder)](https://harshsinghvi.com/instagram)  [Website](https://harshsinghvi.com)
+* [devashishupadhyay](https://github.com/devashishupadhyay) [Website](https://thedevashish.in)
